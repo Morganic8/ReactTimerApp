@@ -8,7 +8,6 @@ var Countdown = require('Countdown');
 var {Route, Router, IndexRoute, hashHistory} = require('react-router');
 
 //Load Foundation
-require('style!css!foundation-sites/dist/foundation.min.css')
 $(document).foundation();
 
 //app css
